@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back-end and front-end development**
 
-- 👯 I’m looking to collaborate on **cool front-end porjects**
+- 👯 I’m looking to collaborate on **cool front-end projects**
 
 - 📫 How to reach me **bilalhassen799@gmail.com**
 
